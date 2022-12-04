@@ -1,4 +1,4 @@
-name: time-push
+name: push
 on:
   workflow_dispatch:
   schedule: 
